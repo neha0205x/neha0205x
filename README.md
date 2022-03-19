@@ -1,5 +1,5 @@
 
-![Web 1920 – 3](https://c4.wallpaperflare.com/wallpaper/929/871/821/multiple-display-dual-monitors-wallpaper-preview.jpg)
+![Web 1920 – 3](https://c4.wallpaperflare.com/wallpaper/967/867/776/abstract-brain-science-artwork-wallpaper-preview.jpg)
 
 <div align="center">
 
