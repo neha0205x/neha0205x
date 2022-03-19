@@ -10,7 +10,7 @@
   
   #### Student @ Birla Institues of Technology Mesra.🏛 
 
-  ## <a href="https://neha.cf/" target="_blank>👉 Neha.cf</a>
+  ## <a href="https://neha.cf/" target="_blank">👉 Neha.cf</a>
   
 
    <br/>
