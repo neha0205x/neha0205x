@@ -1,5 +1,5 @@
 
-![Web 1920 – 3](https://c4.wallpaperflare.com/wallpaper/967/867/776/abstract-brain-science-artwork-wallpaper-preview.jpg)
+![Web 1920 – 3](https://c4.wallpaperflare.com/wallpaper/967/867/776/abstract-brain-science-artwork-wallpaper-preview.jpg width="100%")
 
 <div align="center">
 
