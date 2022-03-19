@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### **Welcome to my GitHub Page 🤗**
 I am Neha Kumari 😊 currently a sophomore in ECE 💻 at Birla Institute of Technology, Mesra.🏫 I'm an avid learner with keen interest in problem solving, open source and development.
 <!--
-**neha0205x/neha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**neha0205x/neha0205x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### My skills Stack 🎀:
 🔹**Programming Languages** - C; Java; Python\
