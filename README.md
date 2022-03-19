@@ -1,5 +1,3 @@
-### Neha Kumari ✨ 
-
 
 ![Web 1920 – 3](https://c4.wallpaperflare.com/wallpaper/800/831/598/digital-art-neon-mountains-lake-wallpaper-preview.jpg)
 
@@ -8,7 +6,7 @@
   
   # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> WELCOME !!
   
-## I'm Neha Kumari
+## I'm Neha Kumari ✨ ✨ 
   
   #### Student @ Birla Institues of Technology Mesra.🏛 
 
