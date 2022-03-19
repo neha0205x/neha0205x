@@ -1,7 +1,7 @@
 ### Neha Kumari ✨ 
 
 
-![Web 1920 – 3](https://images2.alphacoders.com/547/54700.jpg)
+![Web 1920 – 3](https://initiate.alphacoders.com/queue_files/1664544.png)
 
 <div align="center">
 
