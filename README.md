@@ -4,11 +4,9 @@
 <div align="center">
 
   
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> WELCOME !!
+  #  HELLO !!
   
-## I'm Neha Kumari ✨ ✨ 
-  
-  #### Student @ Birla Institues of Technology Mesra.🏛 
+
 
   ## <a href="https://neha.cf/" target="_blank">👉 Neha.cf</a>
   
