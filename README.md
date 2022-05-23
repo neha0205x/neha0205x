@@ -1,4 +1,8 @@
-## Hello ! I am passionate about technology, innovation and big challenging tasks on my to do list
+## Hello ! I am NEHA 
+## I am passionate about technology, innovation and big challenging tasks on my to do list
+## I ❤️ FOSS
+
+
 <div align="center">
   <a href="https://github.com/neha0205x">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neha0205x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
