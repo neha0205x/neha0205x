@@ -63,12 +63,4 @@
 <hr>
 
 ***
-
-_For collaborating and contributing in projects and open source feel free to contact me_
-
-### Contact Me:
-You can contact me on [LinkedIn](https://www.linkedin.com/in//) or you can mail me on neha0205x@gmail.com
-
-***
-<img height="200" src="https://raw.githubusercontent.com/neha0205x/neha0205x/main/ggit.png"><br>
 ##### **ENJOY CODING AND BUILDING 🤩🤩**
