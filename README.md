@@ -18,7 +18,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
   ##
  <hr>
-  ##contact me
+  ## contact me
 <hr>
   
 <div> 
