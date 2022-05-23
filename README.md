@@ -1,37 +1,8 @@
-
-<!-- ![Web 1920 – 3](https://c4.wallpaperflare.com/wallpaper/967/867/776/abstract-brain-science-artwork-wallpaper-preview.jpg width="100%") -->
-# <img src="https://images4.alphacoders.com/587/587777.png" width="100%" height="260">
-<div align="center">
-
-  
-  
-  
-
-
-  ## <a href="https://neha.cf/" target="_blank">👉 Neha.cf</a>
-  
-
-   <br/>
-
-  </div>
-  
-  
- 
-<!--
-**neha0205x/neha0205x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 <div align="center">
   <a href="https://github.com/neha0205x">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neha0205x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha0205x&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
-
-
-
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
