@@ -1,8 +1,9 @@
-<div align="center">
-## Hello ! I am NEHA 
-## Highly passionate about technology, innovation and big challenging tasks on my to do list
-## I ❤️ FOSS
+<div align="center" >
+   ## I'm Neha 
+  ## Highly passionate about technology, innovation and big challenging tasks on my to do list 
+  #### I heart FOSS
   </div>
+  
 
 
 <div align="center">
