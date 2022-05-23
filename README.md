@@ -1,8 +1,10 @@
+
 <div align="center" >
-   ## I'm Neha 
-  ## Highly passionate about technology, innovation and big challenging tasks on my to do list 
-  #### I heart FOSS
+   <b >  I'm Neha kumari <b> <br><br>
+  Highly passionate about technology, innovation and big challenging tasks on my to do list. <br><br>
+   <b> I ❤️ FOSS </b>
   </div>
+    <br><br>
   
 
 
@@ -25,8 +27,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
   ##
 
-<hr>
-  Contact Me 
+
+   <b> <i> Find Me @ </i></b> 
 <div> 
   <a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -38,4 +40,4 @@
   ![Snake animation](https://raw.githubusercontent.com/neha0205x/neha0205x/main/github-contribution-grid-snake.svg)
  
 </div>
-  ##
+  
