@@ -3,13 +3,13 @@
    <b >  I'm Neha kumari <b> <br><br>
   Highly passionate about technology, innovation and big challenging tasks on my to do list. <br><br>
    <b> I ❤️ FOSS </b>
-      <br>
+      <br><br>
       <a href="https://neha.cf" target="_blank" > <img src="https://img.shields.io/website?style=plastic&up_message=neha.cf&url=https%3A%2F%2Fneha.cf" target="_blank"> </a>
+      
+     
   </div>
     <br><br>
-  
-
-
+     
 <div align="center">
   <a href="https://github.com/neha0205x">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neha0205x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -39,7 +39,9 @@
  	<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:neha0205x@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+      ![P](https://komarev.com/ghpvc/?username=neha02005x&color=green)
+
  
   ![Snake animation](https://raw.githubusercontent.com/neha0205x/neha0205x/main/github-contribution-grid-snake.svg)
  
